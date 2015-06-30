@@ -1,0 +1,4 @@
+Uísque|95,00|17/05/2035|Jack Daniel's|
+Cerveja|2,50|25/12/2019|Stella Artois|
+Azeite|15,00|15/08/2016|Gallo|
+Ovo|3,50|06/07/2015|Granja Satoshi|
