@@ -10,4 +10,4 @@ Instructions:
 It is going to ask for an IP. Type in the IP of the PC running the Server (or just type in "localhost" if you are running both from the same PC).
 Then it is goint to ask for a Port Number. Type in the one above the Server Menu.
 
-Note: after choosing an option, you can't go back to menu before finishing it.
+Note: after choosing an option, you can't go back to the menu before finishing that option's procedure.
